@@ -1,6 +1,5 @@
 # Face-Detection-with-OpenCV
 
-# Project for SRMKZILLA Recruitment: Math Editor
 ## Done by:
 ### Akash Ramjyothi
 ### PH: 8939928002
