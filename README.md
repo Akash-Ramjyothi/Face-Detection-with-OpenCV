@@ -7,4 +7,4 @@
 ### [LinkedIn](https://www.linkedin.com/in/akash-ramjyothi/)
 
 # Description:
-Simple Face Detection with OpenCV and Numpy with a haarcascade file as a dataset.
+Simple Face Detection with OpenCV, Numpy and matplot with a haarcascade file as a dataset.
