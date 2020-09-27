@@ -1,6 +1,6 @@
 # Face-Detection-with-OpenCV
 
-## Done by:
+## Done by: 
 ### Akash Ramjyothi
 ### PH: 8939928002
 ### [LinkedIn](https://www.linkedin.com/in/akash-ramjyothi/)
